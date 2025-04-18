@@ -48,7 +48,7 @@ Max's current status:
 Hunger: 2
 Energy: 8
 Happiness: 9
-Tricks: ['roll over', 'play dead']
+Tricks: ['rollover', 'playdead']
 
 
 ### 💡 Tips
